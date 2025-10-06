@@ -1,0 +1,52 @@
+---
+title: "cuestionario sobre paquetes de internet y cable"
+author: "samiel"
+date: "05-10-2025"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    toc: yes 
+    
+---
+### Satisfacción y Preferencias de los Usuarios sobre los Paquetes de Internet y Cable en Costa Rica
+
+### Introducción
+
+## Propósito del cuestionario:
+Recopilar información sobre la experiencia y nivel de satisfacción de los usuarios con los paquetes de internet y cable en Costa Rica.
+
+## Importancia del estudio:
+Los resultados ayudarán a identificar los factores que los clientes más valoran y las áreas donde los proveedores pueden mejorar.
+
+## Instrucciones para los participantes:
+Responda con sinceridad. No se solicitarán datos personales y el tiempo estimado para completarlo es de 5 minutos.
+
+## Confidencialidad:
+Las respuestas serán confidenciales y se usarán únicamente con fines académicos.
+
+### Población Meta
+
+## Características demográficas:
+Personas mayores de 18 años residentes en Costa Rica que cuenten con un servicio de internet y/o televisión por cable.
+
+## Criterios de inclusión:
+	•	Usuarios activos de algún paquete de internet y cable.
+	•	Residir en Costa Rica.
+	•	Tener acceso a internet para completar el formulario.
+
+## Criterios de exclusión:
+	•	Personas menores de edad.
+	•	Quienes no utilicen servicios de internet ni cable.
+	•	Empleados de las empresas proveedoras del servicio (para evitar sesgo en los resultados).
+
+## Tamaño estimado de la población:
+Se estima una muestra de entre 30 y 50 participantes, suficiente para obtener una visión general del nivel de satisfacción y las preferencias del mercado.
+
+⸻
+
+### Objetivo General
+
+Establecer el nivel de satisfacción de los usuarios con los paquetes de internet y cable disponibles en Costa Rica, identificando los aspectos que más influyen en su decisión de compra y permanencia con un proveedor.
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdAXmZLoyEOZL0q24IMmZ5kkWyKP39Ed-BYMruV-E7jT7g1kw/viewform?usp=preview">Enlace del formulario a responder </a>
